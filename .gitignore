@@ -107,6 +107,7 @@ InitTestScene*.unity*
 *.user
 *.userosscache
 *.sln.docstates
+*.slnx
 
 # Telegram bot temp files (media downloads for Claude)
 .telegram-bot-temp/
